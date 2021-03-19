@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Md Tusher Mollah</title>
-    <link>https://tusher-mollah.github.io/publication-type/2/</link>
-      <atom:link href="https://tusher-mollah.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://md-tusher-mollah.github.io/publication-type/2/</link>
+      <atom:link href="https://md-tusher-mollah.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©Md Tusher Mollah</copyright><lastBuildDate>Fri, 19 Mar 2021 21:58:46 +0000</lastBuildDate>
     <image>
-      <url>https://tusher-mollah.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://md-tusher-mollah.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
-      <link>https://tusher-mollah.github.io/publication-type/2/</link>
+      <link>https://md-tusher-mollah.github.io/publication-type/2/</link>
     </image>
     
     <item>
       <title>EMHD Laminar Flow of Bingham Fluid Between Two Parallel Riga Plates EMHD Laminar Flow of Bingham Fluid Between Two Parallel Riga Plates</title>
-      <link>https://tusher-mollah.github.io/publication/mollahemhd/</link>
+      <link>https://md-tusher-mollah.github.io/publication/mollahemhd/</link>
       <pubDate>Fri, 19 Mar 2021 21:58:46 +0000</pubDate>
-      <guid>https://tusher-mollah.github.io/publication/mollahemhd/</guid>
+      <guid>https://md-tusher-mollah.github.io/publication/mollahemhd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Numerical modeling of the polymer flow through the hot-end in filament-based material extrusion additive manufacturing</title>
-      <link>https://tusher-mollah.github.io/publication/serdeczny-2020-numerical/</link>
+      <link>https://md-tusher-mollah.github.io/publication/serdeczny-2020-numerical/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://tusher-mollah.github.io/publication/serdeczny-2020-numerical/</guid>
+      <guid>https://md-tusher-mollah.github.io/publication/serdeczny-2020-numerical/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hall and ion-slip effects on unsteady MHD Bingham fluid flow with suction</title>
-      <link>https://tusher-mollah.github.io/publication/mollah-2018-hall/</link>
+      <link>https://md-tusher-mollah.github.io/publication/mollah-2018-hall/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://tusher-mollah.github.io/publication/mollah-2018-hall/</guid>
+      <guid>https://md-tusher-mollah.github.io/publication/mollah-2018-hall/</guid>
       <description></description>
     </item>
     
