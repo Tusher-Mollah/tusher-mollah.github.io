@@ -5,20 +5,12 @@
     <link>https://md-tusher-mollah.github.io/publication-type/2/</link>
       <atom:link href="https://md-tusher-mollah.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©Md Tusher Mollah</copyright><lastBuildDate>Fri, 19 Mar 2021 21:58:46 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©Md Tusher Mollah</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://md-tusher-mollah.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>https://md-tusher-mollah.github.io/publication-type/2/</link>
     </image>
-    
-    <item>
-      <title>EMHD Laminar Flow of Bingham Fluid Between Two Parallel Riga Plates EMHD Laminar Flow of Bingham Fluid Between Two Parallel Riga Plates</title>
-      <link>https://md-tusher-mollah.github.io/publication/mollahemhd/</link>
-      <pubDate>Fri, 19 Mar 2021 21:58:46 +0000</pubDate>
-      <guid>https://md-tusher-mollah.github.io/publication/mollahemhd/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>EMHD radiating fluid flow along a vertical Riga plate with suction in a rotating system</title>
@@ -57,6 +49,14 @@
       <link>https://md-tusher-mollah.github.io/publication/mollah-2019-emhd/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://md-tusher-mollah.github.io/publication/mollah-2019-emhd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MHD Generalized Couette Flow and Heat Transfer on Bingham Fluid Through Porous Parallel Plates</title>
+      <link>https://md-tusher-mollah.github.io/publication/mollah-2019-mhd/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://md-tusher-mollah.github.io/publication/mollah-2019-mhd/</guid>
       <description></description>
     </item>
     
