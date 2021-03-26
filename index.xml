@@ -41,6 +41,22 @@
     </item>
     
     <item>
+      <title>EMHD radiating fluid flow along a vertical Riga plate with suction in a rotating system</title>
+      <link>https://md-tusher-mollah.github.io/publication/khatun-2021-emhd/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://md-tusher-mollah.github.io/publication/khatun-2021-emhd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-isothermal Bingham fluid flow between two horizontal parallel plates with Ion-slip and Hall currents</title>
+      <link>https://md-tusher-mollah.github.io/publication/mollah-2021-non/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://md-tusher-mollah.github.io/publication/mollah-2021-non/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
       <link>https://md-tusher-mollah.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
@@ -255,10 +271,82 @@ Three
     </item>
     
     <item>
+      <title>Bingham fluid flow through oscillatory porous plate with ion-slip and hall current</title>
+      <link>https://md-tusher-mollah.github.io/publication/mollah-2019-bingham/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://md-tusher-mollah.github.io/publication/mollah-2019-bingham/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EMHD Couette flow of Bingham fluid through a porous parallel Riga plates with thermal radiation</title>
+      <link>https://md-tusher-mollah.github.io/publication/khatun-2019-emhd/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://md-tusher-mollah.github.io/publication/khatun-2019-emhd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EMHD laminar flow of Bingham fluid between two parallel Riga plates</title>
+      <link>https://md-tusher-mollah.github.io/publication/mollah-2019-emhd/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://md-tusher-mollah.github.io/publication/mollah-2019-emhd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fluid flow along the Riga plate with the influence of magnetic force in a rotating system</title>
+      <link>https://md-tusher-mollah.github.io/publication/islam-2019-fluid/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://md-tusher-mollah.github.io/publication/islam-2019-fluid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hall effects on Casson fluid flow along a vertical plate</title>
+      <link>https://md-tusher-mollah.github.io/publication/akter-2019-hall/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://md-tusher-mollah.github.io/publication/akter-2019-hall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsteady Viscous Incompressible Bingham Fluid Flow through a Parallel Plate</title>
+      <link>https://md-tusher-mollah.github.io/publication/islam-2019-unsteady/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://md-tusher-mollah.github.io/publication/islam-2019-unsteady/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Couette Flow of Bingham Fluid with Ion-slip and Hall Current</title>
+      <link>https://md-tusher-mollah.github.io/publication/mollah-2018-bcouette/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://md-tusher-mollah.github.io/publication/mollah-2018-bcouette/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Numerical Study for Compressible Fluid with Induced Magnetic Field</title>
+      <link>https://md-tusher-mollah.github.io/publication/mollah-2018-bnumerical/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://md-tusher-mollah.github.io/publication/mollah-2018-bnumerical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hall and ion-slip effects on unsteady MHD Bingham fluid flow with suction</title>
       <link>https://md-tusher-mollah.github.io/publication/mollah-2018-hall/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://md-tusher-mollah.github.io/publication/mollah-2018-hall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical solution of unsteady viscous compressible fluid flow along a porous plate with induced magnetic field</title>
+      <link>https://md-tusher-mollah.github.io/publication/islam-2017-numerical/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://md-tusher-mollah.github.io/publication/islam-2017-numerical/</guid>
       <description></description>
     </item>
     
